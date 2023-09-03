@@ -1,2 +1,2 @@
 # azure_intro_assessment
-Azure registration and exploration. 
+HHA 504 Assignment 1. Azure registration and exploration. 
